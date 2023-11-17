@@ -1,2 +1,2 @@
-# So_Chat
-Socket-based Chat
+# So_Chat :speech_balloon:
+
