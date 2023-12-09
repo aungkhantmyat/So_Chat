@@ -10,16 +10,13 @@ In today's connected world, effective communication is crucial for both personal
 3. Pillow
 
 ## Functions and Scope of the work
-
-- The scope of this work is only valid between the closed network such as in centralized network.
-- The clients parameter can be adjust in the server file and depending on your flexibility, you can fine tune it.
-- Clients must share the same network and if they are on different networks, they won’t be able to connect to the server and able to chat.
+* The scope of this work is only valid between the closed network such as in centralized network.
+* The clients parameter can be adjust in the server file and depending on your flexibility, you can fine tune it.
+* Clients must share the same network and if they are on different networks, they won’t be able to connect to the server and able to chat.
 
 ## Gettting Started
-
-- First, you need to clone the repo: `https://github.com/aungkhantmyat/So_Chat.git`
-- Run the `requirement.txt` file for the installation.
-- Run the server `serverOrigin.py` file.
-- Then, run the client `clientOrigin.py` file.
-
+* First, you need to clone the repo: `https://github.com/aungkhantmyat/So_Chat.git`
+* Run the `requirement.txt` file for the installation.
+* Run the server `serverOrigin.py` file.
+* Then, run the client `clientOrigin.py` file.
 ![so_chat_image](https://github.com/Raghu2411/So_Chat/assets/40447264/a47c8035-40c2-473d-ac38-7347478b3447)
