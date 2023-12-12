@@ -5,7 +5,7 @@ In today's connected world, effective communication is crucial for both personal
 
 ## Required Packages
 
-1. Customer Tkinder
+1. Tkinder
 2. Socket Programming
 3. Pillow
 
