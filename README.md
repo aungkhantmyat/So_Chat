@@ -21,3 +21,4 @@ In today's connected world, effective communication is crucial for both personal
 * Then, run the client `clientOrigin.py` file.
   
 ![photo_2023-12-10_18-44-45](https://github.com/aungkhantmyat/So_Chat/assets/48421405/253186cf-aabc-4e0b-89c5-083316c50529)
+_**Note**: You can read the project details [here](https://github.com/aungkhantmyat/So_Chat/blob/main/Distributed%20Programming%20Project%20Presentation.pdf)._
